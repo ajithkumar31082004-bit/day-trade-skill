@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.pub
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+trader/
